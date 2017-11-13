@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>TCC</groupId>
   <artifactId>Coure</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.0.A</version>
   <packaging>kjar</packaging>
   <name>Coure</name>
   <description>Coure</description>
